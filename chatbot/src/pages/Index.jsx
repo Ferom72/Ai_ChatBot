@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import { CiPaperplane } from "react-icons/ci";
 import "./Index.css";
 
-const APIKey = "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";
+const APIKey = "";
 
 function Index() {
   const [userText, setUserText] = useState({
